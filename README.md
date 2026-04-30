@@ -246,7 +246,7 @@ Each SSIS package follows this standard flow:
 > 📂 `7_Screenshots/cube/` & `7_Screenshots/data_source_view/`
 
 ### 📊 Analytics Dashboard
-> 📂 [`gravity_books_dashboard.html`](./7_Screenshots/gravity_books_dashboard.html)
+> 📂 [`gravity_books_dashboard.html`](./7_Screenshots/gravity_books_dashboard_final.html)
 
 ### Source-to-Destination Mapping
 > 📂 `3_DWH_Design/Mapping/`
